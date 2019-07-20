@@ -5,3 +5,13 @@ export const LIGHT_BLUE = "#029DE0";
 export const LIGHT_BLUE_2 = "#92D7E7";
 export const LIGHT_GREY = "#F5F5F5";
 export const MID_GREY = "#B3B3B3";
+
+export default {
+  MM_BLACK,
+  DARK_BLUE,
+  DARK_BLUE_2,
+  LIGHT_BLUE,
+  LIGHT_BLUE_2,
+  LIGHT_GREY,
+  MID_GREY
+};
