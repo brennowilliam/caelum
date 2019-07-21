@@ -7,7 +7,7 @@ import SearchBar from "./components/SearchBar";
 
 const App: React.FC = () => {
   return (
-    <div className="App">
+    <div className="ui container">
       <SearchBar />
     </div>
   );
